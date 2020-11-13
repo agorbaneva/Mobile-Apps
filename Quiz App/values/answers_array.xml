@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers">
+        <item>7</item> <!-- What is 5 plus 2?-->
+        <item>8</item>
+        <item>6</item>
+        <item>9</item>
+
+        <item>1000</item> <!-- What is 10 times 10? -->
+        <item>110</item>
+        <item>100</item>
+        <item>101</item>
+
+        <item>48</item> <!-- How many states are there in the United States? -->
+        <item>51</item>
+        <item>52</item>
+        <item>50</item>
+
+        <item>10/08/2003</item> <!-- What's my (Alyssa Gorbaneva's) birthday? -->
+        <item>12/08/2003</item>
+        <item>2/08/2004</item>
+        <item>5/08/2004</item>
+
+        <item>Washington DC</item> <!-- US capital? -->
+        <item>New York City</item>
+        <item>Dallas</item>
+        <item>San Francisco</item>
+
+    </string-array>
+</resources>

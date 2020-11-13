@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item>What is 5 plus 2?</item>
+        <item>What is 10 times 10?</item>
+        <item>How many states are there in the United States?</item>
+        <item>What\'s my (Alyssa Gorbaneva\'s) birthday?</item>
+        <item>What is the capital of the US?</item>
+    </string-array>
+</resources>
